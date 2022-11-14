@@ -1,6 +1,12 @@
 {
   "name": "XSource",
-  "version": "1.0.0",
+  "type": "H5",
+  "img": "http://bizhi.zhuoku.com/2016/01/08/October/October03.jpg",
+  "loginBeforeUrl": "https://img1.baidu.com/it/u=150534334,1153962024&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=1422",
+  "advTime": "9",
+  "hasJump": 1,
+  "skipAdv": 1,
+  "advEndTime": 1699942684000,
   "url": [
     "https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180417%2F7f58856549cb4e27bc55db6e34a835fc.jpeg&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1670570095&t=74516eca722eb51b46bdf1b06e10a108",
     "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic1.win4000.com%2Fmobile%2F2018-07-11%2F5b45a2c47e652.jpg&refer=http%3A%2F%2Fpic1.win4000.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1670570095&t=a9930c3194c74eab640aff669c299ff7",
@@ -30,6 +36,5 @@
     "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201702%2F05%2F20170205201521_fEFwd.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1670662423&t=4eeac519580da8aaf50bf4b6104291e5",
     "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201810%2F03%2F20181003121908_xwfro.jpg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1670662432&t=939225d2b0e9be5b5985f5e821c40331",
     "https://img1.baidu.com/it/u=1659442932,3125165624&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=1082"
-  ],
-  "time": 9
+  ]
 }
