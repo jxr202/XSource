@@ -3,7 +3,7 @@
   "type": "H5",
   "img": "http://bizhi.zhuoku.com/2016/01/08/October/October03.jpg",
   "loginBeforeUrl": "https://img1.baidu.com/it/u=150534334,1153962024&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=1422",
-  "advTime": "9",
+  "advTime": 9,
   "hasJump": 1,
   "skipAdv": 1,
   "advEndTime": 1699942684000,
