@@ -1,0 +1,11 @@
+{
+  "name": "adv_update",
+  "type": "H5",
+  "img": "https://sit.airstarbank.com/file/download/APP_HOME/l_218bdff65569e0754280d077ff12a4b8/小米办公7.png",
+  "hasJump": 1,
+  "loginBeforeUrl": "https://www.baidu.com",
+  "loginAfterUrl": "https://www.taobao.com",
+  "advTime": 3,
+  "skipAdv": 0,
+  "advEndTime": 1668441600000
+}
